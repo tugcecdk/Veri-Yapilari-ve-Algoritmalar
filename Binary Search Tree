@@ -1,6 +1,6 @@
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
  
-  root 3'dir. root'un sağından 7 bulunur. Solunda 1 bulunur.
+  root 3'dür. root'un sağında 7 bulunur. Solunda 1 bulunur.
                                    3
                                  /   \
                                 1     7
